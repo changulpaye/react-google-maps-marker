@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Oslo Raw",
+    "id": "99ucgbsehgzI3OkGE5PbsS",
+    "description": "Plantebaserte, håndlagde delikatesser med rå naturlige ingredienser. Laget med mye lidenskap og kjærlighet.",
+    "locations": [
+      {
+        "name": "Oslo Raw Frogner, Skovveien 16, Oslo, Norge",
+        "code": "OR16",
+        "isActive": true,
+        "position": {
+          "lat": 59.9174765,
+          "lng": 10.7173842
+        }
+      },
+      {
+        "isActive": false,
+        "name": "Oslo Raw Adamstuen, Ullevålsveien 82, Oslo, Norge",
+        "code": "OR82",
+        "position": {
+          "lng": 10.7344495,
+          "lat": 59.93295449999999
+        }
+      }
+    ]
+  },
+  {
+    "name": "Olio",
+    "id": "10ucgbsehgI3OkGE5PB7",
+    "description": "Olio er en medisinsk hudpleie- og skjønnhetssalong som fokuserer på kvalitet fra start til slutt. Her får du komme til terapeuter som vet hva de gjør og som du kan stole på. ",
+    "locations": [
+      {
+        "name": "Olio Beauty Vika, Huitfeldts gate 11, Oslo, Norge",
+        "isActive": true,
+        "position": {
+          "lng": 10.7247821,
+          "lat": 59.9142004
+        },
+        "code": "OB11"
+      },
+      {
+        "name": "Olio Beauty Majorstuen, Valkyriegata 3, Majorstuen, Oslo, Norge",
+        "code": "OB33",
+        "id": "K9ImTuom_lLNkamG6LIiJ",
+        "isActive": true,
+        "position": {
+          "lng": 10.7186062,
+          "lat": 59.9282955
+        }
+      }
+    ]
+  },
+  {
+    "name": "Oslo Mellow",
+    "id": "99ucgbsehgzI3OkGE5PbsS",
+    "description": "Plantebaserte, håndlagde delikatesser med rå naturlige ingredienser. Laget med mye lidenskap og kjærlighet.",
+    "locations": [
+      {
+        "name": "Oslo Raw Frogner, Skovveien 16, Oslo, Norge",
+        "code": "OR16",
+        "isActive": true,
+        "position": {
+          "lat": 59.9174765,
+          "lng": 10.7173842
+        }
+      },
+      {
+        "isActive": false,
+        "name": "Oslo Raw Adamstuen, Ullevålsveien 82, Oslo, Norge",
+        "code": "OR82",
+        "position": {
+          "lng": 10.7344495,
+          "lat": 59.93295449999999
+        }
+      }
+    ]
+  },
+  {
+    "name": "Munch",
+    "id": "99ucgbsehgzI3OkGE5PbsS",
+    "description": "Plantebaserte, håndlagde delikatesser med rå naturlige ingredienser. Laget med mye lidenskap og kjærlighet.",
+    "locations": [
+      {
+        "name": "Oslo Raw Frogner, Skovveien 16, Oslo, Norge",
+        "code": "OR16",
+        "isActive": true,
+        "position": {
+          "lat": 59.9174765,
+          "lng": 10.7173842
+        }
+      },
+      {
+        "isActive": false,
+        "name": "Oslo Raw Adamstuen, Ullevålsveien 82, Oslo, Norge",
+        "code": "OR82",
+        "position": {
+          "lng": 10.7344495,
+          "lat": 59.93295449999999
+        }
+      }
+    ]
+  },
+  {
+    "name": "Helsfyr",
+    "id": "99ucgbsehgzI3OkGE5PbsS",
+    "description": "Plantebaserte, håndlagde delikatesser med rå naturlige ingredienser. Laget med mye lidenskap og kjærlighet.",
+    "locations": [
+      {
+        "name": "Oslo Raw Frogner, Skovveien 16, Oslo, Norge",
+        "code": "OR16",
+        "isActive": true,
+        "position": {
+          "lat": 59.9174765,
+          "lng": 10.7173842
+        }
+      },
+      {
+        "isActive": false,
+        "name": "Oslo Raw Adamstuen, Ullevålsveien 82, Oslo, Norge",
+        "code": "OR82",
+        "position": {
+          "lng": 10.7344495,
+          "lat": 59.93295449999999
+        }
+      }
+    ]
+  }
+]
