@@ -11,7 +11,7 @@ class Home extends Component {
   };
 
   async componentDidMount() {
-    const { data } = await getGledes(); // comment this line to get dummy data.
+    // const { data } = await getGledes(); // uncomment this line to get real data.
     this.setState({ gledes: data });
   }
 
