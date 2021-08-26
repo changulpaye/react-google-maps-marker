@@ -1,7 +1,7 @@
 {
   "name": "react-google-maps-marker-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Display custom marker with hover place info.",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
